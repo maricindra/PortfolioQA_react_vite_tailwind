@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definição da classe CSS personalizada */
+.bg-gradient-animate {
+  background-size: 200% 200%;
+  background-image: linear-gradient(
+    -45deg,
+    #160106ff,
+    #030007ff,
+    #7b41aaff,
+    #3d3b9bff,
+    #e91449ff
+  );
+}
+
+/* Use @apply para aplicar a classe ao body */
+body {
+  @apply bg-gradient-animate text-white;
+}
