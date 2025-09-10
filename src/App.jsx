@@ -4,6 +4,11 @@ import { Github, Linkedin, Mail } from "lucide-react"
 import { motion } from "framer-motion"
 import React from 'react';
 
+import Fotoperfil from "/public/foto-perfil.png"
+import Teste1 from "/public/teste1.jpg"
+import Teste2 from "/public/teste2.jpg"
+import Teste3 from "/public/teste3.jpg"
+
 export default function Portfolio() {
   return (
     <div className="bg-gradient-animate animate-gradient-move min-h-screen text-white min-h-screen font-sans">
@@ -18,7 +23,7 @@ export default function Portfolio() {
       {/* Header */}
       <section className="flex flex-col items-center py-10 text-center">
         <motion.img
-          src="/foto-perfil.png"
+          src={Fotoperfil}
           alt="Foto Perfil"
           className="w-40 h-40 rounded-full border-4 border-purple-500 shadow-lg"
           initial={{ scale: 0 }}
@@ -108,7 +113,7 @@ export default function Portfolio() {
             
           <div className="flex flex-col   md:flex-row   gap-5" >
           <motion.img
-          src="/teste1.jpg"
+          src={Teste1}
           alt="Foto Perfil"
           className="w-40 h-40 rounded-full border-4 border-purple-500 shadow-lg"
           initial={{ scale: 0 }}
@@ -116,7 +121,7 @@ export default function Portfolio() {
           transition={{ duration: 0.6 }} 
         />
                 <motion.img
-          src="/teste2.jpg"
+          src={Teste2}
           alt="Foto Perfil"
           className="w-40 h-40 rounded-full border-4 border-purple-500 shadow-lg"
           initial={{ scale: 0 }}
@@ -124,7 +129,7 @@ export default function Portfolio() {
           transition={{ duration: 0.6 }}/>
 
           <motion.img
-          src="/teste3.jpg"
+          src={Teste3}
           alt="Foto Perfil"
           className="w-40 h-40 rounded-full border-4 border-purple-500 shadow-lg"
           initial={{ scale: 0 }}
