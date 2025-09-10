@@ -28,6 +28,7 @@ export default function Portfolio() {
         <h1 className="text-2xl mt-4 font-bold">Marina Cindra</h1>
         <p className="text-lg text-purple-300">Quality Assurance | Testes de Automação | TI </p>
         <p className="text-sm text-gray-400">MBA em Gestão de Projetos de TI</p>
+        <p className="text-sm text-gray-400">Engenheira da Computação</p>
 
         <div className="flex space-x-4 mt-4">
           <a href="https://github.com/maricindra" target="_blank">
@@ -72,14 +73,16 @@ export default function Portfolio() {
             "CI/CD",
             "Python",
             "JavaScript",
+            "C++",
             "Docker",
             "Node.js",
-            "nongoDB",
+            "MongoDB",
             "SQL",
             "Suporte a Sistemas",
             "C++",
             "Linux",
-            "Scrum & Kanban"
+            "Scrum & Kanban",
+            "Robot framework"
           ].map((skill, idx) => (
             <Card key={idx} className="bg-gray-900 border border-gray-700">
               <CardContent className="p-4 text-center">{skill}</CardContent>
