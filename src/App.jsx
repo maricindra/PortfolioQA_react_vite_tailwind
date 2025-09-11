@@ -61,7 +61,8 @@ export default function Portfolio() {
       <section id="sobre" className="px-8 py-12 max-w-3xl mx-auto">
         <h2 className="text-2xl font-bold mb-4 text-purple-400">Sobre</h2>
         <p className="text-gray-300">
-          Apaixonada por QA, Caçadora de bugs e apaixonada por qualidade. Uso o QA para transformar código em experiências digitais seguras e sem falhas.
+          Apaixonada por QA, Caçadora de bugs e apaixonada por qualidade.<br></br>
+          Uso o QA para transformar código em experiências digitais seguras e sem falhas.
           Em transição para a área de Quality Assurance, com sólida base em testes manuais e automatizados,desenvolvendo projetos com ferramentas atuais do mercado
           como Cypress, Selenium, Postman, K6 e Robot Framework, aplicando testes funcionais, de API, regressão, integração e performance.<br>
           </br> 
