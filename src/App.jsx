@@ -49,7 +49,7 @@ export default function Portfolio() {
               <Linkedin className="mr-2 h-4 w-4" /> LinkedIn
             </Button>
           </a>
-          <a href="mailto:marinacindra13@gmail.com" target="_blank">
+          <a href="https://marinacindraportfolio.my.canva.site/marina-cindra-contatos" target="_blank">
             <Button className="bg-gray-900 hover:bg-gray-700">
               <Mail className="mr-2 h-4 w-4" /> Email
             </Button>
