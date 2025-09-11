@@ -49,9 +49,9 @@ export default function Portfolio() {
               <Linkedin className="mr-2 h-4 w-4" /> LinkedIn
             </Button>
           </a>
-          <a href="https://marinacindraportfolio.my.canva.site/marina-cindra-contatos" target="_blank">
+          <a href="mailto:maricicndra13@gmail.com" target="_blank">
             <Button className="bg-gray-900 hover:bg-gray-700">
-              <Mail className="mr-2 h-4 w-4" /> Email
+              <Mail className="mr-2 h-4 w-4" /> E-mail
             </Button>
           </a>
         </div>
@@ -62,7 +62,7 @@ export default function Portfolio() {
         <h2 className="text-2xl font-bold mb-4 text-purple-400">Sobre</h2>
         <p className="text-gray-300">
           Profissional com rápida adaptabilidade, personalidade autodidata e forte capacidade de absorver novos conhecimentos. 
-          Tenho interesse em atuar na área de Quality Assurance, contribuindo com testes manuais e automação para garantir 
+          Tenho interesse em atuar na área de Quality Assurance, contribuindo com testes de automação e manuais para garantir 
           a qualidade de produtos digitais. Experiência com metodologias ágeis (Scrum, Kanban), lógica de programação 
           (Python, JavaScript, C++) e ferramentas como Jira, Trello e Notion.
         </p>
