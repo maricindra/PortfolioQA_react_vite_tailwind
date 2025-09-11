@@ -79,6 +79,7 @@ export default function Portfolio() {
             "Testes Funcionais",
             "Testes de Regressão",
             "Testes de Integração",
+            "K6 (Performance Testing)",
             "Postman",
             "Cypress",
             "Selenium",
@@ -96,7 +97,6 @@ export default function Portfolio() {
             "Notion",
             "Test Rail",
             "Linux",
-            "K6 (Performance Testing)",
             "Scrum & Kanban",
             "Robot framework"
           ].map((skill, idx) => (
