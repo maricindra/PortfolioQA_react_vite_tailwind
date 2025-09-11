@@ -65,8 +65,7 @@ export default function Portfolio() {
           Em transição para a área de Quality Assurance para transformar código em experiências digitais seguras e sem falhas.
           Com sólida base em testes manuais e automatizados, desenvolvendo projetos com ferramentas atuais do mercado
           como Cypress, Selenium, Postman, K6 e Robot Framework, aplicando testes funcionais, de API, regressão, integração e performance.<br>
-          </br><br></br>
-          
+          </br>
           <br></br>
           Minha formação em Engenharia da Computação e MBA em Gestão de Projetos de TI complementam minha capacidade analítica focando em meu objetivo de apoiar equipes no desenvolvimento de produtos digitais mais confiáveis, eficientes e de alta qualidade, reduzindo falhas e aumentando a satisfação 
           do usuário final.
