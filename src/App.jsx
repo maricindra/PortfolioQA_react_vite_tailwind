@@ -86,6 +86,7 @@ export default function Portfolio() {
             "Suporte a Sistemas",
             "C++",
             "Linux",
+            "K6 (Performance Testing)",
             "Scrum & Kanban",
             "Robot framework"
           ].map((skill, idx) => (
