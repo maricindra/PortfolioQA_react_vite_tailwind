@@ -26,11 +26,7 @@ export default function Portfolio() {
       {/* Header */}
       <section className="flex flex-col items-center py-10 text-center">
         <motion.img
-<<<<<<< HEAD
           src={Fotoperfil}
-=======
-          src={FotoPerfil}
->>>>>>> ebfdd049ebb15361de5c1ce4b9c062923daa6bbc
           alt="Foto Perfil"
           className="w-40 h-40 rounded-full border-4 border-purple-500 shadow-lg"
           initial={{ scale: 0 }}
