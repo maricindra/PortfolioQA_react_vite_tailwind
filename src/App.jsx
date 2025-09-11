@@ -61,10 +61,14 @@ export default function Portfolio() {
       <section id="sobre" className="px-8 py-12 max-w-3xl mx-auto">
         <h2 className="text-2xl font-bold mb-4 text-purple-400">Sobre</h2>
         <p className="text-gray-300">
-          Profissional com rápida adaptabilidade, personalidade autodidata e forte capacidade de absorver novos conhecimentos. 
-          Tenho interesse em atuar na área de Quality Assurance, contribuindo com testes de automação e manuais para garantir 
-          a qualidade de produtos digitais. Experiência com metodologias ágeis (Scrum, Kanban), lógica de programação 
-          (Python, JavaScript, C++) e ferramentas como Jira, Trello e Notion.
+          Apaixonada por QA, Caçadora de bugs e apaixonada por qualidade — uso QA para transformar código em experiências digitais seguras e sem falhas.
+          em transição para a área de Quality Assurance, com sólida base em testes manuais e automatizados. Já desenvolvi projetos práticos com ferramentas 
+          como Cypress, Selenium, Postman, K6 e Robot Framework, aplicando testes funcionais, de API, regressão, integração e performance. Meu objetivo é 
+          apoiar equipes no desenvolvimento de produtos digitais mais confiáveis, eficientes e de alta qualidade, reduzindo falhas e aumentando a satisfação 
+          do usuário final.
+
+
+
         </p>
       </section>
 
