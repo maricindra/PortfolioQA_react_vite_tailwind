@@ -3,6 +3,9 @@ import { Button } from "@/components/ui/button"
 import { Github, Linkedin, Mail } from "lucide-react"
 import { motion } from "framer-motion"
 import React from 'react';
+import FotoPerfil from "/public/foto-perfil.png"
+
+
 
 import Fotoperfil from "/public/foto-perfil.png"
 import Teste1 from "/public/teste1.jpg"
@@ -23,7 +26,11 @@ export default function Portfolio() {
       {/* Header */}
       <section className="flex flex-col items-center py-10 text-center">
         <motion.img
+<<<<<<< HEAD
           src={Fotoperfil}
+=======
+          src={FotoPerfil}
+>>>>>>> ebfdd049ebb15361de5c1ce4b9c062923daa6bbc
           alt="Foto Perfil"
           className="w-40 h-40 rounded-full border-4 border-purple-500 shadow-lg"
           initial={{ scale: 0 }}
@@ -114,7 +121,11 @@ export default function Portfolio() {
             
           <div className="flex flex-col   md:flex-row   gap-5" >
           <motion.img
+<<<<<<< HEAD
           src={Teste1}
+=======
+          src="/public/teste1.jpg"
+>>>>>>> ebfdd049ebb15361de5c1ce4b9c062923daa6bbc
           alt="Foto Perfil"
           className="w-40 h-40 rounded-full border-4 border-purple-500 shadow-lg"
           initial={{ scale: 0 }}
@@ -122,7 +133,11 @@ export default function Portfolio() {
           transition={{ duration: 0.6 }} 
         />
                 <motion.img
+<<<<<<< HEAD
           src={Teste2}
+=======
+          src="/public/teste2.jpg"
+>>>>>>> ebfdd049ebb15361de5c1ce4b9c062923daa6bbc
           alt="Foto Perfil"
           className="w-40 h-40 rounded-full border-4 border-purple-500 shadow-lg"
           initial={{ scale: 0 }}
@@ -130,7 +145,11 @@ export default function Portfolio() {
           transition={{ duration: 0.6 }}/>
 
           <motion.img
+<<<<<<< HEAD
           src={Teste3}
+=======
+          src="/public/teste3.jpg"
+>>>>>>> ebfdd049ebb15361de5c1ce4b9c062923daa6bbc
           alt="Foto Perfil"
           className="w-40 h-40 rounded-full border-4 border-purple-500 shadow-lg"
           initial={{ scale: 0 }}
