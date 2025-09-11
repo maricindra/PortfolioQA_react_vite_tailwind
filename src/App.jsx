@@ -62,8 +62,8 @@ export default function Portfolio() {
         <h2 className="text-2xl font-bold mb-4 text-purple-400">Sobre</h2>
         <p className="text-gray-300">
           Apaixonada por QA, Caçadora de bugs e apaixonada por qualidade.<br></br>
-          Uso o QA para transformar código em experiências digitais seguras e sem falhas.
-          Em transição para a área de Quality Assurance, com sólida base em testes manuais e automatizados,desenvolvendo projetos com ferramentas atuais do mercado
+          Em transição para a área de Quality Assurance para transformar código em experiências digitais seguras e sem falhas.
+          Com sólida base em testes manuais e automatizados, desenvolvendo projetos com ferramentas atuais do mercado
           como Cypress, Selenium, Postman, K6 e Robot Framework, aplicando testes funcionais, de API, regressão, integração e performance.<br>
           </br> 
           Meu objetivo é apoiar equipes no desenvolvimento de produtos digitais mais confiáveis, eficientes e de alta qualidade, reduzindo falhas e aumentando a satisfação 
